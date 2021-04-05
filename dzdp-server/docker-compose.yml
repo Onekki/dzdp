@@ -1,0 +1,26 @@
+version: '3.4'
+services:
+  dzdp:
+    image: dzdp
+    container_name: dzdp
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ~/docker/dzdp/fetcher/outputs:/dzdp/fetcher/outputs
+    ports:
+      - 5000:5000
+    networks:
+      - soft-network
+  redis:
+    image: redis:buster
+    container_name: redis
+    restart: always
+    ports:
+      - 6379:6379
+    networks:
+      - soft-network
+networks:
+  soft-network:
+    external: true
+    

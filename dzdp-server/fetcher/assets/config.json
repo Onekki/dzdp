@@ -1,0 +1,14 @@
+{
+    "username": "A",
+    "email": "285079772@qq.com",
+    "phone": "18852724681",
+    "headers": {
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15",
+      "Cookie": "Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1617621752; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1617427408,1617453300,1617454151,1617617862; lgtoken=090159c28-aa9e-4739-b27c-7554f5a6cb3d; _hc.v=5d4e9582-c786-1792-12b9-35476be13b4a.1617617862; _lxsdk=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; _lxsdk_cuid=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; s_ViewType=10; _lx_utm=utm_source%3Dgoogle%26utm_medium%3Dorganic; cy=5; cye=nanjing; aburl=1; ctu=5256cdb78f5755d0db3ab4716e9578460122a7bda91c49609c53e8f1ea842781; ua=dpuser_5307947877"
+    },
+    "city": "nanjing",
+    "category_ids": [
+      "nanjing/ch50/g183",
+      "nanjing/ch50/g158"
+    ]
+  }

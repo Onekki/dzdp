@@ -1,0 +1,185 @@
+2021-04-05 19:20:12,444 - 64574-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g183 UNIQUE constraint failed: category.category_id
+2021-04-05 19:20:12,445 - 64574-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g158 UNIQUE constraint failed: category.category_id
+2021-04-05 19:20:14,523 - 64574-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/nanjing/ch50/g183o11
+2021-04-05 19:20:15,500 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GlyphOrder' table...
+2021-04-05 19:20:15,509 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'head' table...
+2021-04-05 19:20:15,510 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hhea' table...
+2021-04-05 19:20:15,510 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'maxp' table...
+2021-04-05 19:20:15,511 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'OS/2' table...
+2021-04-05 19:20:15,512 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hmtx' table...
+2021-04-05 19:20:15,520 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'cmap' table...
+2021-04-05 19:20:15,759 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'loca' table...
+2021-04-05 19:20:15,764 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'glyf' table...
+2021-04-05 19:20:16,140 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'name' table...
+2021-04-05 19:20:16,142 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'post' table...
+2021-04-05 19:20:16,158 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GSUB' table...
+2021-04-05 19:20:16,420 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GlyphOrder' table...
+2021-04-05 19:20:16,424 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'head' table...
+2021-04-05 19:20:16,425 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hhea' table...
+2021-04-05 19:20:16,425 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'maxp' table...
+2021-04-05 19:20:16,425 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'OS/2' table...
+2021-04-05 19:20:16,426 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hmtx' table...
+2021-04-05 19:20:16,430 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'cmap' table...
+2021-04-05 19:20:16,682 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'loca' table...
+2021-04-05 19:20:16,683 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'glyf' table...
+2021-04-05 19:20:17,067 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'name' table...
+2021-04-05 19:20:17,068 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'post' table...
+2021-04-05 19:20:17,070 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GSUB' table...
+2021-04-05 19:20:17,343 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GlyphOrder' table...
+2021-04-05 19:20:17,348 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'head' table...
+2021-04-05 19:20:17,348 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hhea' table...
+2021-04-05 19:20:17,349 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'maxp' table...
+2021-04-05 19:20:17,349 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'OS/2' table...
+2021-04-05 19:20:17,350 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hmtx' table...
+2021-04-05 19:20:17,355 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'cmap' table...
+2021-04-05 19:20:17,703 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'loca' table...
+2021-04-05 19:20:17,705 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'glyf' table...
+2021-04-05 19:20:18,087 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'name' table...
+2021-04-05 19:20:18,087 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'post' table...
+2021-04-05 19:20:18,089 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GSUB' table...
+2021-04-05 19:20:18,169 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GlyphOrder' table...
+2021-04-05 19:20:18,172 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'head' table...
+2021-04-05 19:20:18,173 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hhea' table...
+2021-04-05 19:20:18,173 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'maxp' table...
+2021-04-05 19:20:18,173 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'OS/2' table...
+2021-04-05 19:20:18,174 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'hmtx' table...
+2021-04-05 19:20:18,178 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'cmap' table...
+2021-04-05 19:20:18,424 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'loca' table...
+2021-04-05 19:20:18,434 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'glyf' table...
+2021-04-05 19:20:18,798 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'name' table...
+2021-04-05 19:20:18,799 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'post' table...
+2021-04-05 19:20:18,801 - 64574-MainThread - ttFont/ttFont.py:299[_tableToXML] - INFO: Dumping 'GSUB' table...
+2021-04-05 19:20:19,072 - 64574-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif
+2021-04-05 19:20:24,393 - 64574-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif
+2021-04-05 19:20:24,439 - 64574-MainThread - request/request.py:48[request] - ERROR: 页面无法访问
+2021-04-05 19:20:24,439 - 64574-MainThread - request/request.py:49[request] - ERROR: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Cookie': '_lxsdk_s=1788d68140e-d0c-a09-48b%7C%7C52; Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1617280112; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1617015529,1617107027,1617188768,1617280112; ll=7fd06e815b796be3df069dec7836c3df; s_ViewType=10; cy=5; cye=nanjing; _lx_utm=utm_source%3Dgoogle%26utm_medium%3Dorganic; aburl=1; fspop=test; _hc.v=80b28b6e-c6bc-a246-e149-20846d5a0faf.1616903921; _lxsdk=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; _lxsdk_cuid=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; ctu=5256cdb78f5755d0db3ab4716e9578460122a7bda91c49609c53e8f1ea842781; dper=34f04481c5930fede36754d1fcc0e64605458374b24b255b16c248c0735186cbd9aa57a270087918e54376ec5d7c626157331416b7b7b01f56daaab2744965d4; dplet=f2e370d16a3fe35517c8a1ea0425dcd8; ua=dpuser_5307947877'}
+2021-04-05 19:20:56,270 - 64919-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g183 UNIQUE constraint failed: category.category_id
+2021-04-05 19:20:56,271 - 64919-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g158 UNIQUE constraint failed: category.category_id
+2021-04-05 19:20:58,390 - 64919-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/nanjing/ch50/g183o11
+2021-04-05 19:20:59,082 - 64919-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif
+2021-04-05 19:21:04,511 - 64919-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif
+2021-04-05 19:21:04,556 - 64919-MainThread - request/request.py:48[request] - ERROR: 页面无法访问
+2021-04-05 19:21:04,556 - 64919-MainThread - request/request.py:49[request] - ERROR: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Cookie': '_lxsdk_s=1788d68140e-d0c-a09-48b%7C%7C52; Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1617280112; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1617015529,1617107027,1617188768,1617280112; ll=7fd06e815b796be3df069dec7836c3df; s_ViewType=10; cy=5; cye=nanjing; _lx_utm=utm_source%3Dgoogle%26utm_medium%3Dorganic; aburl=1; fspop=test; _hc.v=80b28b6e-c6bc-a246-e149-20846d5a0faf.1616903921; _lxsdk=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; _lxsdk_cuid=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; ctu=5256cdb78f5755d0db3ab4716e9578460122a7bda91c49609c53e8f1ea842781; dper=34f04481c5930fede36754d1fcc0e64605458374b24b255b16c248c0735186cbd9aa57a270087918e54376ec5d7c626157331416b7b7b01f56daaab2744965d4; dplet=f2e370d16a3fe35517c8a1ea0425dcd8; ua=dpuser_5307947877'}
+2021-04-05 19:23:10,440 - 65996-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g183 UNIQUE constraint failed: category.category_id
+2021-04-05 19:23:10,441 - 65996-MainThread - db/db.py:100[insert_category] - WARNING: insert_category nanjing/ch50/g158 UNIQUE constraint failed: category.category_id
+2021-04-05 19:23:12,512 - 65996-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/nanjing/ch50/g183o11
+2021-04-05 19:23:13,193 - 65996-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif
+2021-04-05 19:23:14,160 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801660&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:18,963 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3833770&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:22,831 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3836495&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:26,525 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3831176&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:30,217 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=647524849&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:33,923 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3829404&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:37,619 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3800798&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:41,330 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=636493978&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:45,100 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=662354715&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:48,815 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=647524875&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:52,535 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3831886&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:56,213 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3829746&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:23:59,906 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801471&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:03,623 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3840338&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:07,362 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=643634243&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:11,132 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=612951612&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:14,863 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3837591&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:18,550 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=614897750&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:22,282 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=6887544&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:25,952 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3840525&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:29,640 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=6401828&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:33,372 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3833692&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:37,050 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=623070951&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:40,720 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=602597512&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:44,395 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=623085589&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:48,063 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801420&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:51,741 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=611977400&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:55,420 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=601036471&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:24:59,099 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7514752&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:02,780 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3829965&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:06,475 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3840339&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:10,146 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801343&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:13,815 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801679&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:17,495 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3800753&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:21,187 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7510941&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:24,863 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3829944&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:28,543 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801618&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:32,221 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=623562550&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:35,900 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=622566813&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:39,614 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10703115&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:43,287 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=678435756&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:46,950 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=640297472&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:50,615 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=6888588&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:54,292 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=667033177&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:25:58,055 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=637527832&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:01,785 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801709&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:05,475 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=613797940&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:09,159 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=648494650&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:12,830 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3829951&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:16,504 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=667024128&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:20,177 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=629732811&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:23,861 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7640977&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:27,537 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7207762&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:31,211 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3837706&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:34,878 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801813&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:38,558 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3801442&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:42,243 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=642485395&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:45,940 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7508993&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:49,753 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687834390&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:53,434 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=679551228&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:26:57,105 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=679551186&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:00,784 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=676598716&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:04,454 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=673928110&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:08,242 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=662163228&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:11,910 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=659581013&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:15,878 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=629727218&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:19,552 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=611339550&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:23,231 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10798212&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:26,922 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10703558&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:30,699 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7509722&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:34,374 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=691503490&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:38,086 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=691494581&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:41,763 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=690922079&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:45,444 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687833293&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:49,114 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687833281&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:52,791 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687832959&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:27:56,458 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687832913&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:00,128 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687832873&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:03,882 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=687409728&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:07,638 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=681213094&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:11,299 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=679638180&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:14,983 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=667024295&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:18,914 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=664348695&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:22,574 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=664229196&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:26,390 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=660251186&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:30,070 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=653073205&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:33,753 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=650602173&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:37,428 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=648426884&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:41,101 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=647533485&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:44,847 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=647533156&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:48,532 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=647533025&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:52,220 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=644207258&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:55,914 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=644166207&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:28:59,595 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=634065077&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:03,286 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=632345924&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:06,987 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=631220523&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:10,680 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=629959413&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:14,365 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=627323610&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:18,052 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=623072979&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:21,721 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=622501542&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:25,405 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=615575110&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:29,206 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=615511107&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:32,895 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=615494292&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:36,662 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=615113374&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:40,363 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=610144426&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:44,057 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=12004191&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:47,752 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10711066&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:51,435 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10707461&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:55,126 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=10697269&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:29:58,819 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7517729&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:30:02,518 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=7325834&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:30:06,229 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=6738716&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:30:09,917 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3800315&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:30:13,648 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: https://g.dianping.com/fuse/HktMNFLCM?pf=dppc&productid=3800170&shopid=96379158&shopuuid=FN5O0ajQ4SFIdlif
+2021-04-05 19:30:17,319 - 65996-MainThread - request/request.py:26[request_html] - INFO: url: javascript:;
+2021-04-05 19:30:22,554 - 65996-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif/review_all
+2021-04-05 19:30:22,756 - 65996-MainThread - request/request.py:33[request] - INFO: url: http://www.dianping.com/shop/FN5O0ajQ4SFIdlif/review_all
+2021-04-05 19:30:23,034 - 65996-MainThread - request/request.py:39[request] - ERROR: 验证中心
+2021-04-05 19:30:23,034 - 65996-MainThread - request/request.py:40[request] - ERROR: {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15', 'Cookie': 'Hm_lpvt_602b80cf8079ae6591966cc70a3940e7=1617621752; Hm_lvt_602b80cf8079ae6591966cc70a3940e7=1617427408,1617453300,1617454151,1617617862; lgtoken=090159c28-aa9e-4739-b27c-7554f5a6cb3d; _hc.v=5d4e9582-c786-1792-12b9-35476be13b4a.1617617862; _lxsdk=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; _lxsdk_cuid=17876fbdd57c8-06e2e9fff7ca978-48183301-1fa400-17876fbdd57c8; s_ViewType=10; _lx_utm=utm_source%3Dgoogle%26utm_medium%3Dorganic; cy=5; cye=nanjing; aburl=1; ctu=5256cdb78f5755d0db3ab4716e9578460122a7bda91c49609c53e8f1ea842781; ua=dpuser_5307947877'}
